@@ -22,7 +22,7 @@
 hs_err_pid*
 
 #test
-#test.txt
+test.txt
 .DS_Store
 .gitignore
 .idea/
