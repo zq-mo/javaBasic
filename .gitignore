@@ -28,4 +28,5 @@ test.txt
 .idea/
 javaBasics.iml
 out/
-src/.DS_Store
+src/
+.DS_Stor
